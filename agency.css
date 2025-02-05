@@ -1,0 +1,248 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    cursor: default;
+}
+
+.Header {
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    background-color: #2d6866;
+    padding: 10px;
+    color: #d8fffd;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.goback {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100px;
+    top: -4px;
+    margin: 5px 0px;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.goback:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+
+.goback a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #1f4948;
+}
+
+.brt a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #1f4948;
+}
+
+.brt {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100px;
+    top: -4px;
+    left: 120px;
+    margin: 5px 0px;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.brt:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+
+.bora a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #1f4948;
+}
+
+.bora {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100px;
+    top: -4px;
+    left: 240px;
+    margin: 5px 0px;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.bora:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+
+.choco:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+
+.choco a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #1f4948;
+}
+
+.choco {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100px;
+    top: 26px;
+    left: 120px;
+    margin: 5px 0px;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.fall:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+
+.fall a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #1f4948;
+}
+
+.fall {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100px;
+    top: 56px;
+    left: 120px;
+    margin: 5px 0px;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.mount:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+
+.mount a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #1f4948;
+}
+
+.mount {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100px;
+    top: 26px;
+    left: 240px;
+    margin: 5px 0px;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.mid {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100px;
+    top: 26px;
+    margin: 5px 0px;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.mid:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+
+.mid a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #1f4948;
+}
+
+.bottom {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100px;
+    top: 56px;
+    margin: 5px 0px;
+    padding: 3px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.bottom:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+
+.bottom a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #1f4948;
+}
+
+.line {
+    position: relative;
+    border: 5px solid #1d413f;
+}
+
+.pfp {
+    position: relative;
+}
+
+img {
+    display: block;
+    margin: -50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.greeting {
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.list {
+    text-align: left;
+    position: relative;
+    margin: 20px;
+    margin-left: 36%;
+}

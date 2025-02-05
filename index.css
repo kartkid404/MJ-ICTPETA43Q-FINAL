@@ -1,0 +1,202 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    cursor: default;
+}
+
+body {
+    background-color: #9cdbd7;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#ajlogo img {
+    display: flex;
+    position: absolute;
+    top: 35px;
+    left: 0px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+#ajlogotwo img {
+    display: flex;
+    position: absolute;
+    top: 35px;
+    right: 0px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.lineone {
+    position: relative;
+    margin-top: 40px;
+    margin-bottom: 8px;
+    border: 1px solid black;
+}
+
+#aesthetic {
+    position: relative;
+    background-color: white;
+    height: 80px;
+}
+
+.linetwo {
+    position: relative;
+    margin-top: 11px;
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+#introduction p, b, i, em {
+    text-align: center;
+    cursor: text;
+}
+
+#small {
+    position: relative;
+    left: 0px;
+    background-color: #55918f;
+    width: 130px;
+    text-align: center;
+    top: 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+#small p {
+    cursor: text;
+}
+
+#travellocation {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+#travellocation #one:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+#travellocation #two:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+#travellocation #three:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+#travellocation #four:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+#travellocation #five:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+body #bigfoot {
+    position: relative;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #2d6866;
+    height: 180px;
+}
+
+footer #foot {
+    position: relative;
+}
+
+footer #cloud {
+    display: flex;
+    position: fixed;
+    bottom: -200px;
+    left: -15px;
+}
+
+footer #cloudtwo {
+    display: flex;
+    position: fixed;
+    bottom: -200px;
+    right: -15px;
+}
+
+.tinysym {
+    position: absolute;
+    left: -30px;
+}
+
+#aboutus {
+    text-align: center;
+    margin: 10px;
+    color: #192e2a;
+}
+
+#abtimg img {
+    position: relative;
+    margin-left: 120px;
+}
+
+#abtimg img:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+#abtimg2 img {
+    position: relative;
+    margin-left: 380px;
+}
+
+#abtimg2 img:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+#abtimg3 img {
+    position: relative;
+    margin-left: 110px;
+}
+
+#abtimg3 img:hover {
+    transform: scale(110%);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+#label1 {
+    position:absolute;
+    left: 25%;
+    margin: -5px;
+}
+
+#label3 {
+    position: absolute;
+    right: 25%;
+    margin: -5px;
+}
+
+#label2 {
+    text-align: center;
+    float: center;
+    margin: 5px;
+}
+
+#aboutus {
+    position: absolute;
+    top: 500px;
+    margin-left: 920px;
+}
